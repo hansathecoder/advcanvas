@@ -1,0 +1,18 @@
+body
+{
+	text-align: center;
+	color: plum;
+}
+span
+{
+	font-size: 18px;
+	color: yellowgreen;
+}
+canvas
+{
+	background: violet;
+	border-radius: 20px;
+}
+body{
+	background-color: blueviolet;
+} 
